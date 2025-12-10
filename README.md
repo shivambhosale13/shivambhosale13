@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I’m **Shivam Bhosale**
 
-<!--
-**shivambhosale13/shivambhosale13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🔭 I’m currently working on mobile & web apps using Flutter / Dart.  
+- 🌱 I’m learning more about cross-platform development, UI/UX, and backend integrations.  
+- 💡 I enjoy building projects that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack & Tools  
+- **Languages & Frameworks:** Dart / Flutter, JavaScript, HTML, CSS , Python , C++ , Java , Kotlin , Express.js , React.js  
+- **Tools & Platforms:** Git · GitHub · VS Code  
+- **Other Interests:** UI/UX design, mobile app performance optimization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Some Notable Projects  
+*(You can replace these with your actual repositories / projects)*  
+| Project | Description |
+|--------|-------------|
+| **PathPilot** | A Flutter-based project (in progress / completed) — path / route planning / travelling helper app. |
+| **Movie review App ** | Brief description of another project you worked on. |
+| **Project-3** | Brief description of another project or experiment. |
+
+## 📫 Reach Me  
+- Email: **bhosaleshivam13@gmail.com**  
+- GitHub: [@shivambhosale13](https://github.com/shivambhosale13)  
+
+## ⚡ Fun Fact  
+- I enjoy learning new frameworks and trying out small side-projects just for fun.  
+- Always open to collaboration — feel free to DM me if you have a cool idea 🚀
+
+---
+
+*Last updated:* 10/12/2025  
