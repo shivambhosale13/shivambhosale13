@@ -16,7 +16,6 @@
 |--------|-------------|
 | **PathPilot** | A Flutter-based project (in progress / completed) — path / route planning / travelling helper app. |
 | **Movie review App ** | Brief description of another project you worked on. |
-| **Project-3** | Brief description of another project or experiment. |
 
 ## 📫 Reach Me  
 - Email: **bhosaleshivam13@gmail.com**  
