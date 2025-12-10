@@ -13,9 +13,10 @@
 ## 📂 Some Notable Projects  
 *(You can replace these with your actual repositories / projects)*  
 | Project | Description |
-|--------|-------------|
-| **PathPilot** | A Flutter-based project (in progress / completed) — path / route planning / travelling helper app. |
-| **Movie review App ** | Brief description of another project you worked on. |
+|---------|-------------|
+| **PathPilot** | A Flutter-based project (completed) helps user to find their favourite Career options |
+| **simple-movie-review-webpage-for-beginners** | The Movie Review App is a simple web application that allows users to view, submit, and manage movie reviews |
+|**Simple-Portfolio** | A clean and modern Profile Card UI built using pure HTML and CSS. It includes a round profile image, social links, action buttons, and analytics counters.|
 
 ## 📫 Reach Me  
 - Email: **bhosaleshivam13@gmail.com**  
