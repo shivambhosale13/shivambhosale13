@@ -1,137 +1,152 @@
-<h1 align="center">Hi 👋, I'm Shivam Bhosale</h1>
+<h1 align="center">
+Hi 👋, I'm Shivam Bhosale
+</h1>
 
 <h3 align="center">
-Aspiring Software Developer | Future AI Developer | Passionate about Building Real-World Applications
+Aspiring Software Developer • Future AI Developer • Lifelong Learner
 </h3>
 
+<p align="center">
+I enjoy building real-world applications and continuously improving my skills in Web Development and Artificial Intelligence.
+</p>
+
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 B.Sc. Graduate (2026)
-- 🌱 Currently learning **React.js, Git, SQL and FastAPI**
-- 💻 Strong foundation in **Python, HTML, CSS and JavaScript**
-- 🤖 Long-term goal: Become an **AI Developer**
-- 🚀 Building projects every week to improve my development skills
-- 📚 Currently exploring **Full Stack Web Development**
-- ⚡ Fun fact: I enjoy turning ideas into real projects.
+- 💻 Passionate about Software Development & AI
+- 🌱 Currently learning **React.js, SQL, FastAPI and Git**
+- 🚀 Building projects every week
+- 🎯 Goal: Become an AI Developer
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=shivambhosale13&show_icons=true&theme=github_dark)
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=shivambhosale13)
-
----
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivambhosale13&layout=compact)
-
----
-
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 </p>
 
 ### Currently Learning
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,git,mysql,fastapi" />
 </p>
 
 ### Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=vscode,github" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 Amazon Clone
-- Built using HTML, CSS and JavaScript
-- Dynamic cart functionality
-- Responsive UI
-- DOM Manipulation
+## 🛒 Amazon Clone
 
----
+✔ HTML
 
-### ✅ To-Do List
-- Add/Delete Tasks
-- Local Storage
-- Responsive Design
+✔ CSS
 
----
+✔ JavaScript
 
-### ✊ Rock Paper Scissors
-- Interactive Gameplay
-- Score Tracking
-- Local Storage
+✔ Shopping Cart
+
+✔ Responsive Design
 
 ---
 
-### 🧮 Calculator
-- JavaScript Logic
-- Responsive Interface
+## ✅ To-Do List
+
+✔ CRUD Operations
+
+✔ Local Storage
+
+✔ DOM Manipulation
 
 ---
 
-### 🎲 Coin Flip Simulator
-- Randomized Outcomes
-- JavaScript DOM Manipulation
+## 🎮 Rock Paper Scissors
+
+✔ JavaScript
+
+✔ Local Storage
+
+✔ Score Tracking
 
 ---
 
-### ▶️ YouTube Homepage Clone
-- HTML
-- CSS
-- Responsive Layout
+## 🧮 Calculator
+
+✔ JavaScript Logic
+
+✔ Responsive Design
 
 ---
 
-## 📜 Certifications
+## 🎲 Coin Flip Simulator
 
-🏆 Scientific Computing with Python Developer Certification
-- freeCodeCamp
+✔ Random Number Generation
 
-🏆 AI in Web Development Internship/Training
+✔ DOM Manipulation
 
 ---
 
-## 🎯 2026 Goals
+## ▶ YouTube Homepage Clone
+
+✔ HTML
+
+✔ CSS
+
+✔ Responsive Layout
+
+---
+
+# 📜 Certifications
+
+🏆 Scientific Computing with Python
+
+**freeCodeCamp**
+
+🏆 AI in Web Development Internship / Training
+
+🏆 Google Cloud Compute Skill Badge
+
+---
+
+# 🎯 Current Goals
 
 - ✅ Master JavaScript
-- 🔄 Learn React
+- 🔄 Learn React.js
 - 🔄 Learn SQL
 - 🔄 Learn FastAPI
 - 🔄 Build Full Stack Projects
-- 🔄 Get my first Software Development Internship
-- 🔄 Learn Artificial Intelligence & Machine Learning
+- 🔄 Land my first Software Development Internship
+- 🔄 Learn Machine Learning
+- 🔄 Become an AI Developer
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-📧 Email:
+📧 Email
+
 **bhosaleshivam13@gmail.com**
 
-💼 LinkedIn:
+💼 LinkedIn
+
 https://linkedin.com/in/shivam-bhosale-2b100b41a
 
-💻 GitHub:
+🐙 GitHub
+
 https://github.com/shivambhosale13
 
 ---
 
-⭐ "Every project I build is one step closer to becoming an AI Developer."
+<h3 align="center">
+⭐ Every project I build makes me a better developer than yesterday.
+</h3>
