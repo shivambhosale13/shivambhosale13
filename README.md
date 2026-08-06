@@ -20,7 +20,7 @@ Aspiring Software Developer | Future AI Developer | Passionate about Building Re
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivambhosale13&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=shivambhosale13&show_icons=true&theme=github_dark)
 ---
 
 ## 🔥 GitHub Streak
