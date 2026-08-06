@@ -20,8 +20,7 @@ Aspiring Software Developer | Future AI Developer | Passionate about Building Re
 
 ## 📊 GitHub Stats
 
-![GitHub Stats]( https://github-stats-extended.vercel.app/api?shivambhosale13=octocat&theme=radical)
-
+https://github-stats-extended.vercel.app/api?shivambhosale13=octocat&theme=radical
 ---
 
 ## 🔥 GitHub Streak
