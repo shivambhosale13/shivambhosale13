@@ -1,31 +1,120 @@
-# Hi there 👋 I’m **Shivam Bhosale**
+<h1 align="center">Hi 👋, I'm Shivam Bhosale</h1>
 
-## 🚀 About Me  
-- 🔭 I’m currently working on mobile & web apps using Flutter / Dart.  
-- 🌱 I’m learning more about cross-platform development, UI/UX, and backend integrations.  
-- 💡 I enjoy building projects that solve real-world problems.
-
-## 🧰 Tech Stack & Tools  
-- **Languages & Frameworks:** Dart / Flutter, JavaScript, HTML, CSS , Python , C++ , Java , Kotlin , Express.js , React.js  
-- **Tools & Platforms:** Git · GitHub · VS Code  
-- **Other Interests:** UI/UX design, mobile app performance optimization  
-
-## 📂 Some Notable Projects  
-*(You can replace these with your actual repositories / projects)*  
-| Project | Description |
-|---------|-------------|
-| **PathPilot** | A Flutter-based project (completed) helps user to find their favourite Career options |
-| **simple-movie-review-webpage-for-beginners** | The Movie Review App is a simple web application that allows users to view, submit, and manage movie reviews |
-|**Simple-Portfolio** | A clean and modern Profile Card UI built using pure HTML and CSS. It includes a round profile image, social links, action buttons, and analytics counters.|
-
-## 📫 Reach Me  
-- Email: **bhosaleshivam13@gmail.com**  
-- GitHub: [@shivambhosale13](https://github.com/shivambhosale13)  
-
-## ⚡ Fun Fact  
-- I enjoy learning new frameworks and trying out small side-projects just for fun.  
-- Always open to collaboration — feel free to DM me if you have a cool idea 🚀
+<h3 align="center">
+Aspiring Software Developer | Future AI Developer | Passionate about Building Real-World Applications
+</h3>
 
 ---
 
-*Last updated:* 10/12/2025  
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. Graduate (2026)
+- 🌱 Currently learning **React.js, Git, SQL and FastAPI**
+- 💻 Strong foundation in **Python, HTML, CSS and JavaScript**
+- 🤖 Long-term goal: Become an **AI Developer**
+- 🚀 Building projects every week to improve my development skills
+- 📚 Currently exploring **Full Stack Web Development**
+- ⚡ Fun fact: I enjoy turning ideas into real projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,git,mysql,fastapi" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,github" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Amazon Clone
+- Built using HTML, CSS and JavaScript
+- Dynamic cart functionality
+- Responsive UI
+- DOM Manipulation
+
+---
+
+### ✅ To-Do List
+- Add/Delete Tasks
+- Local Storage
+- Responsive Design
+
+---
+
+### ✊ Rock Paper Scissors
+- Interactive Gameplay
+- Score Tracking
+- Local Storage
+
+---
+
+### 🧮 Calculator
+- JavaScript Logic
+- Responsive Interface
+
+---
+
+### 🎲 Coin Flip Simulator
+- Randomized Outcomes
+- JavaScript DOM Manipulation
+
+---
+
+### ▶️ YouTube Homepage Clone
+- HTML
+- CSS
+- Responsive Layout
+
+---
+
+## 📜 Certifications
+
+🏆 Scientific Computing with Python Developer Certification
+- freeCodeCamp
+
+🏆 AI in Web Development Internship/Training
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Master JavaScript
+- 🔄 Learn React
+- 🔄 Learn SQL
+- 🔄 Learn FastAPI
+- 🔄 Build Full Stack Projects
+- 🔄 Get my first Software Development Internship
+- 🔄 Learn Artificial Intelligence & Machine Learning
+
+---
+
+## 📫 Connect With Me
+
+📧 Email:
+**bhosaleshivam13@gmail.com**
+
+💼 LinkedIn:
+https://linkedin.com/in/shivam-bhosale-2b100b41a
+
+💻 GitHub:
+https://github.com/shivambhosale13
+
+---
+
+⭐ "Every project I build is one step closer to becoming an AI Developer."
