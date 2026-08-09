@@ -1,3 +1,19 @@
+<h1 align="center">Hi 👋, I'm Shivam Bhosale</h1>
+
+<h3 align="center">
+  Software Developer | Aspiring AI Developer
+</h3>
+
+<p align="center">
+  Building projects • Learning every day • Exploring AI
+</p>
+
+<p align="center">
+  <a href="https://github.com/shivambhosale13">
+    <img src="https://komarev.com/ghpvc/?username=shivambhosale13&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
 # 👨‍💻 About Me
 
 - 🎓 B.Sc. Graduate (2026)
