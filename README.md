@@ -97,6 +97,11 @@
 </p>
 
 ---
+## 🐍 Contribution Graph
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/shivambhosale13/shivambhosale13/output/github-contribution-grid-snake.svg)
+
+---
 
 # 🎯 Current Goals
 
