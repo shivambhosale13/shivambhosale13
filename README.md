@@ -89,7 +89,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivambhosale13&theme=tokyonight&hide_border=true" />
+   [![Shivam's GitHub stats](https://github-stats-extended.vercel.app/api?username=bhosaleshivam13)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 <p align="center">
