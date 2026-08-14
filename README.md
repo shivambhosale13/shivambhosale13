@@ -89,7 +89,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-   [![Shivam's GitHub stats](https://github-stats-extended.vercel.app/api?username=bhosaleshivam13)](https://github.com/stats-organization/github-stats-extended)
+  [![Shivam's GitHub stats](https://streak-stats.demolab.com/?user=bhosaleshivam13)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
