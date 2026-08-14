@@ -88,10 +88,16 @@
 
 # 📊 GitHub Stats
 
-[![Shivam's GitHub stats](https://streak-stats.demolab.com/?user=shivambhosale13)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=shivambhosale13&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivambhosale13&style=flat-square&color=blue" />
+  <img src="https://streak-stats.demolab.com?user=shivambhosale13&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shivambhosale13&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -114,4 +120,3 @@
 📧 Email: [bhosaleshivam13@gmail.com](mailto:bhosaleshivam13@gmail.com)  
 💼 LinkedIn: [shivam-bhosale-2b100b41a](https://linkedin.com/in/shivam-bhosale-2b100b41a)  
 🐙 GitHub: [shivambhosale13](https://github.com/shivambhosale13)
-why are the stats nt workin
