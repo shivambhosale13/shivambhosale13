@@ -88,9 +88,7 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=shivambhosale13&show_icons=true&theme=tokyonight" />
-</p>
+[![Shivam's GitHub stats](https://streak-stats.demolab.com/?user=shivambhosale13)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shivambhosale13&style=flat-square&color=blue" />
