@@ -8,14 +8,10 @@
   Building projects • Learning every day • Exploring AI
 </p>
 
-# 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivambhosale13&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivambhosale13&theme=tokyonight" />
+  <a href="https://github.com/shivambhosale13">
+    <img src="https://komarev.com/ghpvc/?username=shivambhosale13&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 # 👨‍💻 About Me
@@ -93,7 +89,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  [![Shivam's GitHub stats](https://streak-stats.demolab.com/?user=shivambhosale13)](https://git.io/streak-stats)
+   <img src="https://github-readme-stats.vercel.app/api?username=shivambhosale13&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -120,3 +116,4 @@
 📧 Email: [bhosaleshivam13@gmail.com](mailto:bhosaleshivam13@gmail.com)  
 💼 LinkedIn: [shivam-bhosale-2b100b41a](https://linkedin.com/in/shivam-bhosale-2b100b41a)  
 🐙 GitHub: [shivambhosale13](https://github.com/shivambhosale13)
+why are the stats nt workin
