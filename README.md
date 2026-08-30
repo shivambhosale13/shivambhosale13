@@ -107,7 +107,7 @@
 # 🎯 Current Goals
 
 - ✅ Master JavaScript
-- 🔄 Learn React.js
+- ✅ Learn React.js
 - 🔄 Learn SQL
 - 🔄 Learn FastAPI
 - 🔄 Build Full Stack Projects
