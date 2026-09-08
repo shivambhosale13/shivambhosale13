@@ -66,13 +66,11 @@
 ✔ Responsive Layout  
 
 ## 👨‍🍳 Chef Claude
-
 ✔ React.js 
 ✔ AI-Powered Recipe Suggestions 
 ✔ Dynamic UI
 
 ## 😂 Meme Maker
-
 ✔ React.js 
 ✔ Dynamic Meme Generation 
 ✔ Interactive UI
