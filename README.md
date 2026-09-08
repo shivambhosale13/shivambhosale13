@@ -38,6 +38,7 @@
 
 ### Currently Learning
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![ML/AI](https://img.shields.io/badge/ML%2FAI-8A2BE2?style=for-the-badge&logo=ai&logoColor=white)
 
 ### Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
