@@ -55,28 +55,33 @@
 ✔ Shopping Cart  
 ✔ Responsive Design  
 
-## ✅ To-Do List
-✔ CRUD Operations  
-✔ Local Storage  
-✔ DOM Manipulation  
-
 ## 🎮 Rock Paper Scissors
 ✔ JavaScript  
 ✔ Local Storage  
-✔ Score Tracking  
-
-## 🧮 Calculator
-✔ JavaScript Logic  
-✔ Responsive Design  
-
-## 🎲 Coin Flip Simulator
-✔ Random Number Generation  
-✔ DOM Manipulation  
+✔ Score Tracking   
 
 ## ▶ YouTube Homepage Clone
 ✔ HTML  
 ✔ CSS  
 ✔ Responsive Layout  
+
+## 👨‍🍳 Chef Claude
+
+✔ React.js
+✔ AI-Powered Recipe Suggestions
+✔ Dynamic UI
+
+## 😂 Meme Maker
+
+✔ React.js
+✔ Dynamic Meme Generation
+✔ Interactive UI
+
+## 🏡 Villa Booking
+
+✔ React.js
+✔ Responsive Design
+✔ Vercel Deployment
 
 ---
 
@@ -108,7 +113,7 @@
 
 - ✅ Master JavaScript
 - ✅ Learn React.js
-- 🔄 Learn SQL
+- ✅ Learn SQL
 - 🔄 Learn FastAPI
 - 🔄 Build Full Stack Projects
 - 🔄 Land my first Software Development Internship
