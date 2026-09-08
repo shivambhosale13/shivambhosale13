@@ -66,20 +66,19 @@
 ✔ Responsive Layout  
 
 ## 👨‍🍳 Chef Claude
-✔ React.js 
-✔ AI-Powered Recipe Suggestions 
-✔ Dynamic UI
+✔ React.js  
+✔ AI-Powered Recipe Suggestions  
+✔ Dynamic UI 
 
-## 😂 Meme Maker
-✔ React.js 
-✔ Dynamic Meme Generation 
-✔ Interactive UI
+## 👨‍🍳 Meme Maker
+✔ React.js  
+✔ Dynamic Meme Generation  
+✔ Interactive UI 
 
 ## 🏡 Villa Booking
-
-✔ React.js 
-✔ Responsive Design 
-✔ Vercel Deployment
+✔ React.js  
+✔ Responsive UI  
+✔ Vercel Deployment 
 
 ---
 
