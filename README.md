@@ -18,7 +18,7 @@
 
 - 🎓 B.Sc. Graduate (2026)
 - 💻 Passionate about Software Development & AI
-- 🌱 Currently learning **React.js, SQL, FastAPI, and Git**
+- 🌱 Currently learning **ML AND AI**
 - 🚀 Building projects every week
 - 🎯 Goal: Become an AI Developer
 
@@ -32,7 +32,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://shields.io)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
