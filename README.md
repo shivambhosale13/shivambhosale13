@@ -72,7 +72,7 @@
 ✔ AI-Powered Recipe Suggestions  
 ✔ Dynamic UI 
 
-## 👨‍🍳 Meme Maker
+## 😂 Meme Maker
 ✔ React.js  
 ✔ Dynamic Meme Generation  
 ✔ Interactive UI 
@@ -89,7 +89,7 @@
 🏆 Scientific Computing with Python — **freeCodeCamp**  
 🏆 AI in Web Development Internship / Training  
 🏆 Google Cloud Compute Skill Badge  
-
+🏆 Supervised Machine Learning: Regression and Classification (IN PROGRESS)
 ---
 
 # 📊 GitHub Stats
@@ -113,7 +113,7 @@
 - ✅ Master JavaScript
 - ✅ Learn React.js
 - ✅ Learn SQL
-- 🔄 Learn FastAPI
+- ✅ Learn FastAPI
 - 🔄 Build Full Stack Projects
 - 🔄 Land my first Software Development Internship
 - 🔄 Learn Machine Learning
